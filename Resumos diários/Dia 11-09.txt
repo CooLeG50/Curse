@@ -1,0 +1,8 @@
+introdução CS
+
+básico de informatica
+
+uso do vscode 
+extension--- dracula official; live server; material icon theme.
+
+uso do index e uso das extensões (tipo de arquivo) na base de um site.
