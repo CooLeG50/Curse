@@ -1,0 +1,29 @@
+body {
+    background-image: linear-gradient(to right, rgb(139, 31, 31), rgb(220, 220, 135));
+}
+.container{
+    width: 100%;
+    border: 2px solid black;
+    display: flex;
+}
+.box{
+    text-align: center;
+    height: 150px;
+}
+.item1{
+background-color: brown;
+flex: 1 2 100px;
+
+}
+.item2{
+    background-color: yellow;
+flex: 1 3 150px;
+}
+.item3{
+    background-color: green;
+    flex: 1 1 200px;
+}
+.item4{
+    background-color: red;
+    flex: 1 400px;
+}
